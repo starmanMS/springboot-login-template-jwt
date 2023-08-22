@@ -4,5 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/login-verify-forntend" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="element-ui" level="application" />
+    <orderEntry type="library" name="index" level="application" />
   </component>
 </module>
