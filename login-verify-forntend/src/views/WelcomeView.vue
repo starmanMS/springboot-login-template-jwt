@@ -25,7 +25,7 @@
 
 <style scoped>
 .right-card {
-  width: 600px;
+  width: 400px;
   z-index: 1;
   background-color: var(--el-bg-color);
 }
