@@ -1,0 +1,21 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 935865811@qq.com
+    password: ncnwdbvtrjmibfhc
+  rabbitmq:
+    addresses: 119.91.206.146
+    username: admin
+    password: admin
+    virtual-host: /
+  security:
+    filter:
+      order: -100
+    jwt:
+      key: addaddada
+      expire: 1
+  datasource:
+    url: jdbc:mysql://localhost:3306/jwt_login
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
